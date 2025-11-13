@@ -39,6 +39,10 @@ Test on RPI 3B+
 |**Number of Tokens**|183|212|
 
 This approach even improved the runtime efficiency of **llama2.c** inside the TEE!
+
+# Another Part
+This research also resulted in a patent. Due to practical considerations, the contents covered by the patent are not open-sourced for now. You can learn about this part of the work through the patent document included in [this repository](https://github.com/TephrocactusMYC/OTEC).
+
 # How to use
 **Update**: It is currently confirmed that this code can run stably on version 4.2.0, but there are many issues with version 4.4.0.
 
