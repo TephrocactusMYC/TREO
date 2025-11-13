@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2978" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/host/main.c" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1906" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/ta/user_ta_header_defines.h" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1667" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/ta/syscall.c" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
